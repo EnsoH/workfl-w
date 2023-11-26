@@ -1,6 +1,19 @@
-div {
-   background-color: red;
-   color: white;
-   font-size: 32px;
-   text-align: center;
+p {
+    background-color: rgb(247, 184, 194);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#id-one {
+    color: rgb(7, 7, 251);
+    font-size: 36px;
+}
+
+.odd-two.cool {
+    font-size: 24px;
+}
+
+#id-two {
+    background-color: rgb(141, 235, 141);
+    font-size: 24px;
+    font-weight: bold;
 }
